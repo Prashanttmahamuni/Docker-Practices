@@ -1,5 +1,5 @@
 #!/bin/bash
-      
+                                                            
 # Update system packages
 sudo yum update -y
                     
