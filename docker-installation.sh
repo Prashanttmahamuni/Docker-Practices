@@ -15,7 +15,7 @@ sudo systemctl enable docker
 # Add current user to the docker group
 sudo usermod -aG docker $USER
 
-# Verify installation
+# Verify installation        
 docker --version
 
 # Test Docker installation
