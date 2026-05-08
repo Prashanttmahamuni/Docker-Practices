@@ -8,7 +8,7 @@ sudo yum install docker -y
                                 
 # Start Docker service
 sudo systemctl start docker        
-
+                          
 # Enable Docker to start at boot
 sudo systemctl enable docker
 
